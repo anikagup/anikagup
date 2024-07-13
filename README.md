@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Major: Biomedical Engineering 
+Academic Interests: Bioinformatics, Stem Cell and Regenerative Medicine 
+Languages: R, Python, MATLAB
+Specific skills: wet lab techniques, single cell and bulk RNA-seq 
 <!--
 **anikagup/anikagup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
